@@ -51,6 +51,7 @@ Query starts from 3 to 7.
 1. https://wiki.apache.org/nutch/NutchTutorial
 2. http://lucene.apache.org/solr/
 
+##### Copyright © 2015 Vaikunth Sridharan
 
 
 
