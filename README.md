@@ -4,7 +4,7 @@ Web Information Systems 7900
 ## Size of Index Directory:
 Its 4.9Mb.
 
-![Number of vertices vs Time (ms)](https://github.com/vaikzs/Intro-to-Web-Crawlers/blob/master/Screenshots/IndexSize.png)
+![IndexSize](https://github.com/vaikzs/Intro-to-Web-Crawlers/blob/master/Screenshots/IndexSize.png)
 
 
 ## Introduction to Nutch 
